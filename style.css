@@ -103,23 +103,23 @@ h2 {
 }
 
 #ron-pic {
-	width:100%;
+	width:90%;
 
 }
 
 #moon-pic {
-	width:71%;
+	width:105%;
 }
 
 #moon {
 	float:left;
-	width:50%;
+	width:40%;
 	
 }
 
 #ron {
 	float:right;
-	width:50%
+	width:40%
 	clear:both;
 }
 
