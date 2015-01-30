@@ -58,7 +58,7 @@ table {
 	width:100%;
 	background-color:#ADB7C1;
 	padding-top:4%;
-	padding-bottom:.25%;
+	padding-bottom:.50%;
 	margin-top:;
 	
 }
@@ -71,11 +71,18 @@ table {
 	
 }
 
+.below-bar {
+	margin:0px auto;
+	width:70%;
+	margin-top:3%;
+}
+
 
 h1 {
-	color:white;
+	color:rgb(169, 253, 247);
 	font-size: 50px;
 	font-family: sans-serif;
+	
 
 }
 
@@ -83,10 +90,35 @@ p {
 	color:white;
 	font-size:20px;
 	font-family: sans-serif;
-	padding-top:1%;
+	padding-top:.75%;
 	
 }
 
+h2 {
+	color:black;
+	font-family: sans-serif;
+	font-size:15px;
+	margin-bottom:1%;
+}
+
+#ron-pic {
+	width:100%;
+
+}
+
+#moon-pic {
+	width:72%;
+}
+#moon {
+	float:left;
+	width:49%;
+}
+
+#ron {
+	float:right;
+	width:49%
+	clear:both;
+}
 
 
 
