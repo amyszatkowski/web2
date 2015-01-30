@@ -99,6 +99,7 @@ h2 {
 	font-family: sans-serif;
 	font-size:15px;
 	margin-bottom:1%;
+ 	text-transform:uppercase;
 }
 
 #ron-pic {
@@ -107,16 +108,18 @@ h2 {
 }
 
 #moon-pic {
-	width:72%;
+	width:71%;
 }
+
 #moon {
 	float:left;
-	width:49%;
+	width:50%;
+	
 }
 
 #ron {
 	float:right;
-	width:49%
+	width:50%
 	clear:both;
 }
 
